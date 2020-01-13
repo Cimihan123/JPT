@@ -1,0 +1,9 @@
+
+1.https://ctf101.org/
+2.https://portswigger.net/web-security
+3.https://brutelogic.com.br/blog/
+4.https://medium.com/@ehsahil/getting-started-in-bug-bounty-7052da28445a
+5.https://www.shodan.io/?fbclid=IwAR3iNT-T2RkgH8Vb0BXOsNGvC7a63WB1Cm3Z0CQQxiOI08B12eW0jUBSz8M
+6.https://news.ycombinator.com/?fbclid=IwAR039sNf4pt8ObpohctSKRWCja2T34G_rE1sChjk23Y_2HA88NT-_aU5qbA
+7.https://www.cloudflare.com/learning/security/threats/owasp-top-10/
+8.https://pentester.land/list-of-bug-bounty-writeups.html#bug-bounty-writeups-published-in-2019

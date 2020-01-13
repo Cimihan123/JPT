@@ -1,0 +1,89 @@
+Some Information Gathering Tools
+1.Nmap
+2.Hping3
+3.nslookup
+4.theHarvester
+5.Maltego
+6.Recon-ng
+7.Shodan
+
+
+Some Subdomain Finding Tools
+1.Sublis3r
+2.Recon-ng
+3.Amass
+4.DNSRecon
+5.Knockpy
+
+
+Some Reverse Engineering Tools
+1.OllyDbg
+2.Radare2
+3.gdb
+4.Valgrind
+5.Javasnoop
+6.Jad Debugger
+7.ApkTool 
+8.IDA
+9.Plasma
+
+
+Some Forensics Tools
+1.Binwalk
+2.Autospy
+3.Chkrootkit
+4.Foremost
+5.Galleta
+6.Hashdeep
+7.Volafox
+8.bulk_extractor
+
+
+Some DDOS Tools
+1.Pyloris
+2.HOIC
+3.Slowloris
+4.LOIC
+5.UDP Flooder
+6.HULK
+7.DDoSIM
+8.Tor's Hammer
+9.RUDY
+
+
+Some WIFI-Hacking Tools
+1.Aircrack-ng
+2.Reaver
+3.Wireshark
+4.Fern Wifi Cracker
+5.Kismet
+6.CoWPAtty
+7.NetStumbler
+8.Wifiphiser
+9.Wifite
+
+
+Recommendation For Begineers
+
+1.Nmap
+2.Sublis3r
+3.Amass
+4.Linkfinder
+5.sqlmap
+6.metasploit
+7.wfuzz
+9.Burpsuite
+10.radare2
+11.johntheripper
+12.crunch
+13.cewl
+14.nikto
+15.wireshark
+16.theharvester
+17.ettercap
+18.aircrak-ng
+19.Hydra
+20.Netcat
+21.Snort
+22.Yersinia
+23.Hashcat
