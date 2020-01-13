@@ -12,7 +12,7 @@ print("\033[1;32;40m",b)
 
 print("\n\033[1;33;40mSelect one of the:\n")
 #list1
-list1={"1":"\033[1;33;40m1.Firefox","2":"2.Website You Wanna Open","3":"3.Payloads","4":"4.List Of Vulnerability" ,"5":"5.Bug Bounty Sites","6":"6.Search Videos On YouTube","7":"7.CTF-Sites","8":"8.Bug Bounty/Hacking Resources","9":"9.Pentesting/Hacking Tools"}
+list1={"1":"\033[1;33;40m1.Google","2":"2.Website You Wanna Open","3":"3.Payloads","4":"4.List Of Vulnerability" ,"5":"5.Bug Bounty Sites","6":"6.Search Videos On YouTube","7":"7.CTF-Sites","8":"8.Bug Bounty/Hacking Resources","9":"9.Pentesting/Hacking Tools"}
 for key,value in list1.items():
     print(value)
 
@@ -20,7 +20,7 @@ print("\n\033[1;33;40mEnter one of the hai!!")
 users=str(input("\n\033[1;33;40mWhat is your choice :\n>>"))
 
  #direct firefox open    
-if users=="firefox" or users=="1" or users=="Firefox" :
+if users=="google" or users=="1" or users=="Goole" :
 
   
    
