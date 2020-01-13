@@ -1,0 +1,5 @@
+
+pip3 install webbrowser
+pip3 install subprocess
+pip3 install pyfiglet
+pip3 install terminal_banner
